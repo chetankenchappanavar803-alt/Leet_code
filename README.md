@@ -48,6 +48,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/chetankenchappanavar803-alt/Leet_code/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/chetankenchappanavar803-alt/Leet_code/tree/master/0050-powx-n) |
 | [2965-find-missing-and-repeated-values](https://github.com/chetankenchappanavar803-alt/Leet_code/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
