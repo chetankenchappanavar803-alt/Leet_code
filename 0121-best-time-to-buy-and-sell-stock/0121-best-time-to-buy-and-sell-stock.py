@@ -4,7 +4,5 @@ class Solution:
         profit = 0
         for p in prices :
             m = min(m,p)
-            profit = max(profit,p-m)
-        return profit
-
-        
+            profit = max(profit, p-m)
+        return profit                
