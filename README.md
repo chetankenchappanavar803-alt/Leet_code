@@ -13,6 +13,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chetankenchappanavar803-alt/Leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/chetankenchappanavar803-alt/Leet_code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/chetankenchappanavar803-alt/Leet_code/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/chetankenchappanavar803-alt/Leet_code/tree/master/0283-move-zeroes) |
 | [2965-find-missing-and-repeated-values](https://github.com/chetankenchappanavar803-alt/Leet_code/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -62,6 +63,7 @@
 | [0015-3sum](https://github.com/chetankenchappanavar803-alt/Leet_code/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/chetankenchappanavar803-alt/Leet_code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/chetankenchappanavar803-alt/Leet_code/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/chetankenchappanavar803-alt/Leet_code/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
 |  |
 | ------- |
